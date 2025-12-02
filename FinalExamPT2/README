@@ -1,0 +1,6 @@
+FINAL EXAM PART 2
+
+Make sure that the schema is created before using the web application
+
+Use php -S localhost:9000 (or whatever port number tp launch the browser)
+
